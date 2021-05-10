@@ -33,30 +33,30 @@
 1. [source file stystem](https://www.gatsbyjs.com/plugins/gatsby-source-filesystem/?=file) 
  
   ```shell
-    npm install gatsby-source-filesystem
+  npm install gatsby-source-filesystem
   ```
 2. [gatsby-transformer-sharp](https://www.gatsbyjs.com/plugins/gatsby-transformer-sharp/?=tra)  
 
 ```shell
-    npm install gatsby-transformer-sharp gatsby-plugin-sharp
+  npm install gatsby-transformer-sharp gatsby-plugin-sharp
   ```
 3. [MDX](https://www.gatsbyjs.com/plugins/gatsby-plugin-mdx/?=mdx)
 
 ```shell
-  npm install gatsby-plugin-mdx @mdx-js/mdx @mdx-js/react
+npm install gatsby-plugin-mdx @mdx-js/mdx @mdx-js/react
   ```
 4. [gatsby-remark-images](https://www.gatsbyjs.com/plugins/gatsby-remark-images/?=remark%20im)
 
 ```shell
-  npm i gatsby-remark-images
+npm i gatsby-remark-images
   ```
 
 
 ## git commands
 ```
-  git status
-  git add .
-  git commit -m "Added gatsby-source-filesystem"
-  git push
+git status
+git add .
+git commit -m "Added gatsby-source-filesystem"
+git push
   ```
 <!-- AUTO-GENERATED-CONTENT:END -->

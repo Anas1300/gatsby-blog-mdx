@@ -39,7 +39,7 @@ module.exports = {
           options: {
             maxWidth: 1200,
           },
-        }
+        },
       ],
       }
     },
