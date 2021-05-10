@@ -28,5 +28,9 @@
 
 :atom_symbol: [Git hub emojies](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+## Gatsby-plugins used
 
+ 1. ```shell
+    npm install gatsby-source-filesystem
+    ```
 <!-- AUTO-GENERATED-CONTENT:END -->
